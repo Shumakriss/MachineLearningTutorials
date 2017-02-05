@@ -20,8 +20,9 @@ Some subjects I would like to touch on:
 * Time Series Prediction
 * Sequence Classification
 * Big Data infrastructure (Hadoop, Spark, cloud ML products, etc.)
+* Zeppelin
 
-Here are some more tutorials that have piqued my interest:
+Future links for tutorials:
 * http://machinelearningmastery.com/naive-bayes-classifier-scratch-python/
 * http://machinelearningmastery.com/sequence-classification-lstm-recurrent-neural-networks-python-keras/
 * http://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
