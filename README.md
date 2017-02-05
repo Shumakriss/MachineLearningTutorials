@@ -13,6 +13,14 @@ Here's what you can find in this repo:
 * Keras introduction - https://github.com/Shumakriss/MachineLearningTutorials/blob/master/Simple%20Neural%20Net%20in%20Keras.ipynb
 * CNN in Keras - http://localhost:8888/notebooks/MachineLearningTutorials/CNN%20for%20MNIST%20in%20Keras.ipynb
 
+I would like to do some tutorials on:
+* RNNs
+* LSTMs
+* Rewriting Andrew Ng's Coursera assignments in Python/Sci-kit learn, etc.
+* Anything "bayesian"
+* Eventually setting up a compute platform of some kind
+* Zeppelin
+
 Here are some more that have piqued my interest:
 * http://machinelearningmastery.com/naive-bayes-classifier-scratch-python/
 * http://machinelearningmastery.com/sequence-classification-lstm-recurrent-neural-networks-python-keras/
