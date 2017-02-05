@@ -13,7 +13,16 @@ Here's what you can find in this repo:
 * Keras introduction - https://github.com/Shumakriss/MachineLearningTutorials/blob/master/Simple%20Neural%20Net%20in%20Keras.ipynb
 * CNN in Keras - http://localhost:8888/notebooks/MachineLearningTutorials/CNN%20for%20MNIST%20in%20Keras.ipynb
 
-Here are some more that have piqued my interest:
+Some subjects I would like to touch on:
+* GPU coding and/or Cuda
+* Reinforcement learning
+* RNNs & LSTM
+* Time Series Prediction
+* Sequence Classification
+* Big Data infrastructure (Hadoop, Spark, cloud ML products, etc.)
+
+Here are some more tutorials that have piqued my interest:
 * http://machinelearningmastery.com/naive-bayes-classifier-scratch-python/
 * http://machinelearningmastery.com/sequence-classification-lstm-recurrent-neural-networks-python-keras/
 * http://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
+* http://machinelearningmastery.com/evaluate-performance-deep-learning-models-keras/
