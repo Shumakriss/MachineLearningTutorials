@@ -26,3 +26,4 @@ Here are some more tutorials that have piqued my interest:
 * http://machinelearningmastery.com/sequence-classification-lstm-recurrent-neural-networks-python-keras/
 * http://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
 * http://machinelearningmastery.com/evaluate-performance-deep-learning-models-keras/
+* http://machinelearningmastery.com/develop-evaluate-large-deep-learning-models-keras-amazon-web-services/
