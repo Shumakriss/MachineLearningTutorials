@@ -9,9 +9,9 @@ A big shout out to the folks at machinelearningmastery.com for providing many of
 http://machinelearningmastery.com
 
 Here's what you can find in this repo:
-* A quick intro to Tensorflow -  https://github.com/Shumakriss/MachineLearningTutorials/blob/master/Getting%20Started%20with%20Tensorflow.ipynb
-* Keras introduction - https://github.com/Shumakriss/MachineLearningTutorials/blob/master/Simple%20Neural%20Net%20in%20Keras.ipynb
-* CNN in Keras - http://localhost:8888/notebooks/MachineLearningTutorials/CNN%20for%20MNIST%20in%20Keras.ipynb
+* [A quick intro to Tensorflow]( https://github.com/Shumakriss/MachineLearningTutorials/blob/master/Getting%20Started%20with%20Tensorflow.ipynb)
+* [Keras introduction](https://github.com/Shumakriss/MachineLearningTutorials/blob/master/Simple%20Neural%20Net%20in%20Keras.ipynb)
+* [CNN in Keras](https://github.com/Shumakriss/MachineLearningTutorials/blob/master/CNN%20for%20MNIST%20in%20Keras.ipynb)
 
 Some subjects I would like to touch on:
 * GPU coding and/or Cuda
