@@ -23,8 +23,10 @@ Some subjects I would like to touch on:
 * Zeppelin
 
 Future links for tutorials:
-* http://machinelearningmastery.com/naive-bayes-classifier-scratch-python/
-* http://machinelearningmastery.com/sequence-classification-lstm-recurrent-neural-networks-python-keras/
-* http://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/
-* http://machinelearningmastery.com/evaluate-performance-deep-learning-models-keras/
-* http://machinelearningmastery.com/develop-evaluate-large-deep-learning-models-keras-amazon-web-services/
+* [Naive Bayes](http://machinelearningmastery.com/naive-bayes-classifier-scratch-python/)
+* [LSTM RNN](http://machinelearningmastery.com/sequence-classification-lstm-recurrent-neural-networks-python-keras/)
+* [Time-series](http://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
+* [Model Evaluation](http://machinelearningmastery.com/evaluate-performance-deep-learning-models-keras/)
+* [DL & AWS](http://machinelearningmastery.com/develop-evaluate-large-deep-learning-models-keras-amazon-web-services/)
+* [Tuning w/ Grid Search](http://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/)
+* [Ensembling](http://machinelearningmastery.com/ensemble-machine-learning-algorithms-python-scikit-learn/)
