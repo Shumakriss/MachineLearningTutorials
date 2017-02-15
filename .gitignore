@@ -89,3 +89,4 @@ ENV/
 .ropeproject
 
 *.csv
+output.txt
